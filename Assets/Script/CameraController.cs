@@ -4,14 +4,14 @@ using System.Collections;
 public class CameraController : MonoBehaviour {
 
 	public GameObject player;
-	private Vector3 offset;
+	public float Distance = 7f;
+	public float Height = 5f;
+	public float Speed = 10f;
+	Vector3 Pos;
 	// Use this for initialization
-	void Start () {
-		offset = transform.position - player.transform.position;
-	}
-	
-	// Update is called once per frame
-	void LateUpdate () {
-		transform.position = player.transform.position + offset;
+	void Update () {
+		Pos = new Vector3 (player.transform.position.x, Height, player.transform.position.z - Distance);
+
+		this.gameObject.transform.position = Vector3.Lerp (this.gameObject.transform.position, Pos, Speed * Time.deltaTime);
 	}
 }
