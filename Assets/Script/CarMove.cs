@@ -4,9 +4,7 @@ using System.Collections;
 public class CarMove : MonoBehaviour {
 	public bool updateOn = false;
 	// Use this for initialization
-	void Start () {
-	
-	}
+
 	void moveCar () {
 		transform.Translate (0, 0, -0.1f);
 
