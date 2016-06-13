@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{4F4E09B8-833A-483F-AEC6-01D408C56CFA}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_9;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Camera2DFollow.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\PlatformerCharacter2D.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\2D\Scripts\Restarter.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Custom Joystick\FourWayController.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Third Person\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Third Person\AutoCam.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Third Person\PivotBasedCameraRig.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Third Person\ThidPersonExampleController.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Touchpad Camera\RotateCamera.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Examples\Scenes\Touchpad Camera\RotationConstraint.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\CnInputSystem\CnInputManager.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\CnInputSystem\VirtualAxis.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\CnInputSystem\VirtualButton.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\Dpad.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\DpadAxis.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\InputHelpers\BaseInputHelper.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\InputHelpers\ButtonInputHelper.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\InputHelpers\DpadInputHelper.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\InputHelpers\JoystickInputHelper.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\InputHelpers\TouchpadInputHelper.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\SensitiveJoystick.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleButton.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
+     <Compile Include="Assets\Standard Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\NGUI\ReadMe - 3.9.7.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Demigiant\DOTweenPro\readme.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 2.shader" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\Loading Screen Demo\Fonts\Lucida Calligraphy 30 Italics\Lucida Calligraphy 30 Italics.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\PlayMaker\Readme.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\SimpleTown\Changelog.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 3.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
+     <None Include="Assets\Car_Exhaust_Effect\Shaders\TransparentReflectiveDiffuse_Car.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Playmaker NGUI Scripts\README - Upgrading from Previous Versions.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\SimplePeople\Changelog.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\Loading Screen Demo\NGUI Screens\LoadBigScene\FastGUIData.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Demigiant\DOTween\DOTween43.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\Loading Screen Demo\NGUI Screens\LoadingScreen\FastGUIData.xml" />
+     <None Include="Assets\PlayMaker\Resources\PlayMakerAssemblies.txt" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\NGUI Atlases\Arimo\Arimo20.txt" />
+     <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
+     <None Include="Assets\Car_Exhaust_Effect\Shaders\AlphaSelfIllum_NoFog.shader" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\NGUI Atlases\Arimo\Large.txt" />
+     <None Include="Assets\Demigiant\DemiLib\Core\Editor\DemiEditor.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Playmaker NGUI Scripts\Demo\NGUI Atlases\Playmaker NGUI UI\FastGUIData.xml" />
+     <None Include="Assets\Demigiant\readme_DOTweenPro.txt" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\PlayMaker\Versions\readme.txt" />
+     <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="DemiLib">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenPro">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMaker">
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/PlayMaker.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
