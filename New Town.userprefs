@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-UI-Unlit-Transparent-.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\UI\UILabel.cs">
     <Files>
-      <File FileName="Temp\Compiled-UI-Unlit-Transparent-.shader" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UILabel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
