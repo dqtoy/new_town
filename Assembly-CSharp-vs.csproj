@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{093B0BD9-7CE7-163C-56CF-46715F11694D}</ProjectGuid>
+	<ProjectGuid>{C9495ADF-5BB4-B43D-3ED5-6089EF766FF7}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -767,6 +767,7 @@
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\UnloadAssetBundleCompressedContents.cs" />
      <Compile Include="Assets\Script\CameraController.cs" />
      <Compile Include="Assets\Script\CarCtrl.cs" />
+     <Compile Include="Assets\Script\CarCtrl2.cs" />
      <Compile Include="Assets\Script\CarMove.cs" />
      <Compile Include="Assets\Script\CarRotation.cs" />
      <Compile Include="Assets\Script\CollisonCarMove.cs" />
@@ -798,6 +799,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
      <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
+     <None Include="Assets\Car_Exhaust_Effect\Shaders\TransparentReflectiveDiffuse_Car.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
@@ -820,6 +822,7 @@
      <None Include="Assets\PlayMaker\Resources\PlayMakerAssemblies.txt" />
      <None Include="Assets\Playmaker NGUI Scripts\Demo\NGUI Atlases\Arimo\Arimo20.txt" />
      <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
+     <None Include="Assets\Car_Exhaust_Effect\Shaders\AlphaSelfIllum_NoFog.shader" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
@@ -838,23 +841,27 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="DemiLib">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenPro">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
  </Reference>
  <Reference Include="PlayMaker">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/PlayMaker.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{4F4E09B8-833A-483F-AEC6-01D408C56CFA}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

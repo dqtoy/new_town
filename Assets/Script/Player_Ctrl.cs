@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using CnControls;
+using UnityEngine;
 using System.Collections;
 
 public enum PlayerState
@@ -23,20 +24,24 @@ public class Player_Ctrl : MonoBehaviour {
 
 	void KeyboardInput ()
 	{
-		
-		float xx = Input.GetAxisRaw ("Vertical");
-		float zz = Input.GetAxisRaw ("Horizontal");
-		
+		float xx = CnInputManager.GetAxisRaw("Vertical");
+		float zz = CnInputManager.GetAxisRaw("Horizontal");
+
 		if (PS != PlayerState.Attack) {
-			
-			if (Input.GetKey (KeyCode.LeftArrow) || Input.GetKey (KeyCode.RightArrow) ||
+
+			lookDirection = xx * Vector3.forward + zz * Vector3.right;
+			Speed = WalkSpeed;
+			PS = PlayerState.Walk;
+			anim.SetFloat ("Speed_f",0.5f);
+
+			/*if (Input.GetKey (KeyCode.LeftArrow) || Input.GetKey (KeyCode.RightArrow) ||
 			    Input.GetKey (KeyCode.UpArrow) || Input.GetKey (KeyCode.DownArrow)) {
 				
 				lookDirection = xx * Vector3.forward + zz * Vector3.right;
 				Speed = WalkSpeed;
 				PS = PlayerState.Walk;
 				anim.SetFloat ("Speed_f",0.5f);
-			}
+			}*/
 			
 			if (xx == 0 && zz == 0 && PS != PlayerState.Idle) {			
 				PS = PlayerState.Idle;
@@ -60,6 +65,7 @@ public class Player_Ctrl : MonoBehaviour {
 		Quaternion R = Quaternion.LookRotation (lookDirection);
 		transform.rotation = Quaternion.RotateTowards (transform.rotation, R, 10f);
 		transform.Translate (Vector3.forward * Speed * Time.deltaTime);	
+
 	}
 	
 	void Update ()
