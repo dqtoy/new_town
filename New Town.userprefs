@@ -1,7 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\UI\UILabel.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs">
     <Files>
+      <File FileName="Assets\Standard Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CollisonCarMove.cs" Line="1" Column="1" />
       <File FileName="Assets\NGUI\Scripts\UI\UILabel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
