@@ -12,15 +12,22 @@ public class MakeBuildings : MonoBehaviour {
 	float yy;
 	float zz;
 	Vector3 targetPosition;
+	Vector3 aa;
 		
 	// Update is called once per frame
 	void Update () {
 		if (Building != null) {
 			if (Input.GetButtonDown("Fire1")) {
-				Debug.Log (22);
-				targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-				Instantiate(Buildings, targetPosition, transform.rotation);
-				Debug.Log (targetPosition);
+				targetPosition = Input.mousePosition;
+				RaycastHit rayHit;
+				if(Physics.Raycast(Camera.main.ScreenPointToRay(targetPosition), out rayHit)) {
+					aa = rayHit.point;
+					Debug.Log (aa);
+					Instantiate(Buildings, aa, transform.rotation);
+				}
+
+
+				//Debug.Log (targetPosition);
 				}
 			}
 	}
