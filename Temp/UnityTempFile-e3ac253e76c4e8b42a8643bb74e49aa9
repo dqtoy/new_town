@@ -1,0 +1,75 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/UnityEngine.UI.dll"
+-r:Assets/Demigiant/DemiLib/Core/DemiLib.dll
+-r:Assets/Demigiant/DOTween/DOTween.dll
+-r:Assets/Demigiant/DOTween/DOTween43.dll
+-r:Assets/Demigiant/DOTween/DOTween46.dll
+-r:Assets/Demigiant/DOTweenPro/DOTweenPro.dll
+-r:Assets/PlayMaker/PlayMaker.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_4_6_9
+-define:UNITY_4_6
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:UNITY5_SCRIPTING_IN_UNITY4
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+"Assets/Standard Assets/CNControls/Examples/Scenes/2D/Scripts/Camera2DFollow.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/2D/Scripts/Platformer2DUserControl.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/2D/Scripts/PlatformerCharacter2D.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/2D/Scripts/Restarter.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Custom Joystick/FourWayController.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Third Person/AbstractTargetFollower.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Third Person/AutoCam.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Third Person/PivotBasedCameraRig.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Third Person/ThidPersonExampleController.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Touchpad Camera/RotateCamera.cs"
+"Assets/Standard Assets/CNControls/Examples/Scenes/Touchpad Camera/RotationConstraint.cs"
+"Assets/Standard Assets/CNControls/Scripts/CnInputSystem/CnInputManager.cs"
+"Assets/Standard Assets/CNControls/Scripts/CnInputSystem/VirtualAxis.cs"
+"Assets/Standard Assets/CNControls/Scripts/CnInputSystem/VirtualButton.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/Dpad.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/DpadAxis.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/InputHelpers/BaseInputHelper.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/InputHelpers/ButtonInputHelper.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/InputHelpers/DpadInputHelper.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/InputHelpers/JoystickInputHelper.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/InputHelpers/TouchpadInputHelper.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/SensitiveJoystick.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/SimpleButton.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/SimpleJoystick.cs"
+"Assets/Standard Assets/CNControls/Scripts/Controllers/Touchpad.cs"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
