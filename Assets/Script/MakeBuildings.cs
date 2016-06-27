@@ -31,11 +31,7 @@ public class MakeBuildings : MonoBehaviour {
 				}
 			}
 	}
-	
 
-	void GetMousePos () {
-		
-	}
 	
 	public void Make () {
 		Building = (GameObject)Instantiate(Buildings, new Vector3 (0, 0, 0), transform.rotation);
