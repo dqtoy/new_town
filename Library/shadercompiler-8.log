@@ -1,0 +1,35 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-9592
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=1795 outsize=308 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2226 outsize=568 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1859 outsize=331 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1104 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2144 outsize=596 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1064 outsize=1471 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1336 outsize=215 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1259 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1941 outsize=2422 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1244 outsize=1950 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2291 outsize=425 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1267 outsize=186 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1106 outsize=1495 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1058 outsize=343 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=파이프가 끝났습니다.
+
+
+Quitting shader compiler process

@@ -1,0 +1,3757 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.077 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\System.dll (this message is harmless)
+LoadLevel: 02_CityName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.859042 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 974.
+Total: 1.065464 ms (FindLiveObjects: 0.028845 ms CreateObjectMapping: 0.009314 ms MarkObjects: 0.212131 ms  DeleteObjects: 0.037859 ms)
+
+LoadLevel: 03_00_story
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.888450 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1258.
+Total: 1.295023 ms (FindLiveObjects: 0.038760 ms CreateObjectMapping: 0.012920 ms MarkObjects: 0.416751 ms  DeleteObjects: 0.048075 ms)
+
+LoadLevel: 03_01_01_aim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 2.000826 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1160.
+Total: 1.610215 ms (FindLiveObjects: 0.061596 ms CreateObjectMapping: 0.015023 ms MarkObjects: 0.572995 ms  DeleteObjects: 0.068206 ms)
+
+LoadLevel: 03_01_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.897201 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1169.
+Total: 1.810629 ms (FindLiveObjects: 0.051079 ms CreateObjectMapping: 0.015023 ms MarkObjects: 0.762291 ms  DeleteObjects: 0.019530 ms)
+
+LoadLevel: 03_01_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.515004 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1162.
+Total: 1.346704 ms (FindLiveObjects: 0.032751 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.505690 ms  DeleteObjects: 0.035455 ms)
+
+LoadLevel: house_get1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.683568 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2869.
+Total: 2.128826 ms (FindLiveObjects: 0.104563 ms CreateObjectMapping: 0.026741 ms MarkObjects: 0.988244 ms  DeleteObjects: 0.091042 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+LoadLevel: 03_01_04explain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+UnloadTime: 1.699455 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 1176.
+Total: 2.563004 ms (FindLiveObjects: 0.036957 ms CreateObjectMapping: 0.021032 ms MarkObjects: 1.116845 ms  DeleteObjects: 0.361164 ms)
+
+LoadLevel: 03_01_05graph
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.799248 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1216.
+Total: 2.547981 ms (FindLiveObjects: 0.065201 ms CreateObjectMapping: 0.018629 ms MarkObjects: 1.419117 ms  DeleteObjects: 0.045971 ms)
+
+LoadLevel: 03_01_06_solve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.024000 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1173.
+Total: 2.630610 ms (FindLiveObjects: 0.064901 ms CreateObjectMapping: 0.020131 ms MarkObjects: 1.536901 ms  DeleteObjects: 0.053183 ms)
+
+LoadLevel: 03_01_07_solve2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.528225 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1182.
+Total: 2.455136 ms (FindLiveObjects: 0.069408 ms CreateObjectMapping: 0.018328 ms MarkObjects: 1.421220 ms  DeleteObjects: 0.045671 ms)
+
+LoadLevel: 03_01_08_wrapUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.735849 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1258.
+Total: 2.374309 ms (FindLiveObjects: 0.057389 ms CreateObjectMapping: 0.021032 ms MarkObjects: 1.341896 ms  DeleteObjects: 0.031549 ms)
+
+LoadLevel: 03_02_01_aim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 0.801652 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1173.
+Total: 2.405258 ms (FindLiveObjects: 0.034854 ms CreateObjectMapping: 0.014122 ms MarkObjects: 1.485220 ms  DeleteObjects: 0.072112 ms)
+
+LoadLevel: 03_02_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.675455 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 1.939530 ms (FindLiveObjects: 0.034553 ms CreateObjectMapping: 0.014122 ms MarkObjects: 0.972018 ms  DeleteObjects: 0.014422 ms)
+
+LoadLevel: 03_02_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.670347 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1172.
+Total: 1.801615 ms (FindLiveObjects: 0.034253 ms CreateObjectMapping: 0.014122 ms MarkObjects: 0.928450 ms  DeleteObjects: 0.040262 ms)
+
+LoadLevel: car_problem
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 0.558572 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 9219.
+Total: 2.870685 ms (FindLiveObjects: 0.223549 ms CreateObjectMapping: 0.103661 ms MarkObjects: 1.493934 ms  DeleteObjects: 0.088638 ms)
+
+LoadLevel: 03_02_04explain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.595680 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 296 unused Assets to reduce memory usage. Loaded Objects now: 1197.
+Total: 3.722215 ms (FindLiveObjects: 0.034854 ms CreateObjectMapping: 0.028244 ms MarkObjects: 1.475906 ms  DeleteObjects: 1.168225 ms)
+
+LoadLevel: 03_02_05graph
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.847624 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1207.
+Total: 2.808788 ms (FindLiveObjects: 0.065802 ms CreateObjectMapping: 0.030347 ms MarkObjects: 1.571455 ms  DeleteObjects: 0.090741 ms)
+
+LoadLevel: 03_02_06_solve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.787830 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.681690 ms (FindLiveObjects: 0.057990 ms CreateObjectMapping: 0.022835 ms MarkObjects: 1.525784 ms  DeleteObjects: 0.039661 ms)
+
+LoadLevel: 03_02_07_solve2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.545352 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1199.
+Total: 1.890553 ms (FindLiveObjects: 0.033051 ms CreateObjectMapping: 0.019830 ms MarkObjects: 1.027906 ms  DeleteObjects: 0.032450 ms)
+
+LoadLevel: 03_02_08_wrapUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.515004 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1300.
+Total: 1.915793 ms (FindLiveObjects: 0.030347 ms CreateObjectMapping: 0.021032 ms MarkObjects: 1.091605 ms  DeleteObjects: 0.021333 ms)
+
+LoadLevel: 03_03_01_aim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.574197 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1170.
+Total: 2.213859 ms (FindLiveObjects: 0.037859 ms CreateObjectMapping: 0.035154 ms MarkObjects: 1.369840 ms  DeleteObjects: 0.076319 ms)
+
+LoadLevel: 03_03_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.607849 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.524244 ms (FindLiveObjects: 0.063098 ms CreateObjectMapping: 0.030046 ms MarkObjects: 1.475605 ms  DeleteObjects: 0.029746 ms)
+
+LoadLevel: 03_03_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.839211 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1172.
+Total: 2.870685 ms (FindLiveObjects: 0.054985 ms CreateObjectMapping: 0.026140 ms MarkObjects: 1.600300 ms  DeleteObjects: 0.050178 ms)
+
+LoadLevel: air_pollution
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 0.825089 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 9533.
+Total: 3.002291 ms (FindLiveObjects: 0.310084 ms CreateObjectMapping: 0.055286 ms MarkObjects: 1.602704 ms  DeleteObjects: 0.110572 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+LoadLevel: 03_03_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+UnloadTime: 3.597521 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 304 unused Assets to reduce memory usage. Loaded Objects now: 1188.
+Total: 2.587943 ms (FindLiveObjects: 0.030948 ms CreateObjectMapping: 0.030647 ms MarkObjects: 1.283906 ms  DeleteObjects: 0.508995 ms)
+
+LoadLevel: 03_03_04explain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.770403 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.324431 ms (FindLiveObjects: 0.049276 ms CreateObjectMapping: 0.037859 ms MarkObjects: 1.298629 ms  DeleteObjects: 0.047173 ms)
+
+LoadLevel: 03_03_05graph
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.786929 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1238.
+Total: 2.675680 ms (FindLiveObjects: 0.055286 ms CreateObjectMapping: 0.044169 ms MarkObjects: 1.529389 ms  DeleteObjects: 0.049877 ms)
+
+LoadLevel: 03_03_06_solve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.073877 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.810291 ms (FindLiveObjects: 0.060694 ms CreateObjectMapping: 0.040863 ms MarkObjects: 1.666704 ms  DeleteObjects: 0.045971 ms)
+
+LoadLevel: 03_03_07_solve2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.489765 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1199.
+Total: 2.027267 ms (FindLiveObjects: 0.033652 ms CreateObjectMapping: 0.027943 ms MarkObjects: 0.999061 ms  DeleteObjects: 0.041765 ms)
+
+LoadLevel: 03_03_08_wrapUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.553765 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1260.
+Total: 2.047098 ms (FindLiveObjects: 0.030647 ms CreateObjectMapping: 0.035755 ms MarkObjects: 1.127061 ms  DeleteObjects: 0.022234 ms)
+
+LoadLevel: 03_04_01_aim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.513502 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1170.
+Total: 1.972281 ms (FindLiveObjects: 0.030948 ms CreateObjectMapping: 0.031248 ms MarkObjects: 1.119549 ms  DeleteObjects: 0.044169 ms)
+
+LoadLevel: 03_04_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.515305 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 1.800713 ms (FindLiveObjects: 0.051380 ms CreateObjectMapping: 0.027042 ms MarkObjects: 0.985840 ms  DeleteObjects: 0.013521 ms)
+
+LoadLevel: 03_04_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.698892 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1175.
+Total: 2.696413 ms (FindLiveObjects: 0.044769 ms CreateObjectMapping: 0.028845 ms MarkObjects: 1.563643 ms  DeleteObjects: 0.046272 ms)
+
+LoadLevel: 03_04_03_talk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.800751 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1226.
+Total: 2.377915 ms (FindLiveObjects: 0.035455 ms CreateObjectMapping: 0.029746 ms MarkObjects: 1.301934 ms  DeleteObjects: 0.024037 ms)
+
+LoadLevel: 03_04_03_talk1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.860544 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1219.
+Total: 2.189521 ms (FindLiveObjects: 0.049276 ms CreateObjectMapping: 0.033051 ms MarkObjects: 1.024300 ms  DeleteObjects: 0.045671 ms)
+
+LoadLevel: 03_04_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.716319 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.356281 ms (FindLiveObjects: 0.047774 ms CreateObjectMapping: 0.040863 ms MarkObjects: 1.230422 ms  DeleteObjects: 0.052882 ms)
+
+LoadLevel: 03_04_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.730741 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1175.
+Total: 1.787793 ms (FindLiveObjects: 0.065502 ms CreateObjectMapping: 0.040563 ms MarkObjects: 0.868957 ms  DeleteObjects: 0.034253 ms)
+
+LoadLevel: 03_04_04explain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.768600 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 1.852093 ms (FindLiveObjects: 0.057389 ms CreateObjectMapping: 0.037859 ms MarkObjects: 0.994253 ms  DeleteObjects: 0.018028 ms)
+
+LoadLevel: 03_04_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.580206 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1175.
+Total: 2.201840 ms (FindLiveObjects: 0.049877 ms CreateObjectMapping: 0.033953 ms MarkObjects: 1.218403 ms  DeleteObjects: 0.048676 ms)
+
+LoadLevel: 03_04_03_talk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.815474 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1226.
+Total: 2.271248 ms (FindLiveObjects: 0.065802 ms CreateObjectMapping: 0.045070 ms MarkObjects: 1.197971 ms  DeleteObjects: 0.023737 ms)
+
+LoadLevel: 03_04_03_talk1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.643004 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1219.
+Total: 1.550723 ms (FindLiveObjects: 0.031849 ms CreateObjectMapping: 0.027342 ms MarkObjects: 0.731943 ms  DeleteObjects: 0.028845 ms)
+
+LoadLevel: 03_04_04explain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.735549 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 2.230384 ms (FindLiveObjects: 0.053483 ms CreateObjectMapping: 0.041464 ms MarkObjects: 1.079887 ms  DeleteObjects: 0.057690 ms)
+
+LoadLevel: 03_04_05graph
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.553765 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1359.
+Total: 1.787192 ms (FindLiveObjects: 0.027943 ms CreateObjectMapping: 0.039061 ms MarkObjects: 0.921539 ms  DeleteObjects: 0.030647 ms)
+
+LoadLevel: 03_04_06_matter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.672751 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1208.
+Total: 2.002328 ms (FindLiveObjects: 0.030948 ms CreateObjectMapping: 0.046272 ms MarkObjects: 1.081990 ms  DeleteObjects: 0.073314 ms)
+
+LoadLevel: 03_04_07_wrapUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.599737 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1260.
+Total: 2.677183 ms (FindLiveObjects: 0.031849 ms CreateObjectMapping: 0.028845 ms MarkObjects: 0.936863 ms  DeleteObjects: 0.052882 ms)
+
