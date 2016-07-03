@@ -788,6 +788,7 @@
      <Compile Include="Assets\Script\CollisonCarMove.cs" />
      <Compile Include="Assets\Script\MakeBuildings.cs" />
      <Compile Include="Assets\Script\Player_Ctrl.cs" />
+     <Compile Include="Assets\Script\QuestionPlayerCtrl.cs" />
      <Compile Include="Assets\Script\SaveCityName.cs" />
      <Compile Include="Assets\iTween\iTween.cs" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
