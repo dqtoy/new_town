@@ -10,7 +10,7 @@ public class CameraController : MonoBehaviour {
 	Vector3 Pos;
 	// Use this for initialization
 	void Update () {
-		Pos = new Vector3 (player.transform.position.x - 5.0f, Height, player.transform.position.z - Distance);
+		Pos = new Vector3 (player.transform.position.x, Height, player.transform.position.z - Distance);
 
 		this.gameObject.transform.position = Vector3.Lerp (this.gameObject.transform.position, Pos, Speed * Time.deltaTime);
 	}
