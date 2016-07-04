@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{093B0BD9-7CE7-163C-56CF-46715F11694D}</ProjectGuid>
+	<ProjectGuid>{C9495ADF-5BB4-B43D-3ED5-6089EF766FF7}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -780,6 +780,7 @@
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\StringCompareMulti.cs" />
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\UnloadAssetBundle.cs" />
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\UnloadAssetBundleCompressedContents.cs" />
+     <Compile Include="Assets\Script\BuildingCtrl.cs" />
      <Compile Include="Assets\Script\CameraController.cs" />
      <Compile Include="Assets\Script\CarCtrl.cs" />
      <Compile Include="Assets\Script\CarCtrl2.cs" />
@@ -787,9 +788,13 @@
      <Compile Include="Assets\Script\CarRotation.cs" />
      <Compile Include="Assets\Script\CollisonCarMove.cs" />
      <Compile Include="Assets\Script\MakeBuildings.cs" />
+     <Compile Include="Assets\Script\PinchZoom.cs" />
      <Compile Include="Assets\Script\Player_Ctrl.cs" />
+     <Compile Include="Assets\Script\QuestionCameraCtrl.cs" />
      <Compile Include="Assets\Script\QuestionPlayerCtrl.cs" />
      <Compile Include="Assets\Script\SaveCityName.cs" />
+     <Compile Include="Assets\Script\TouchCameraCtrl.cs" />
+     <Compile Include="Assets\Scripts\Camera\TouchCamera.cs" />
      <Compile Include="Assets\iTween\iTween.cs" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\NGUI\ReadMe - 3.9.7.txt" />
@@ -859,27 +864,27 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="DemiLib">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenPro">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
  </Reference>
  <Reference Include="PlayMaker">
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/PlayMaker.dll</HintPath>
+ <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{37F73148-39BC-CBE9-4BEF-1166617A4EFF}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{4F4E09B8-833A-483F-AEC6-01D408C56CFA}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
