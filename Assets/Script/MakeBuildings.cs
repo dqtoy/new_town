@@ -21,11 +21,13 @@ public class MakeBuildings : MonoBehaviour {
 				targetPosition = Input.mousePosition;
 				RaycastHit rayHit;
 				if(Physics.Raycast(Camera.main.ScreenPointToRay(targetPosition), out rayHit)) {
-					aa = rayHit.point;
-					Debug.Log (aa);
-					Instantiate(Buildings, aa, transform.rotation);
-				}
+					if(rayHit.collider.name == "road_square_mesh") {
+						aa = rayHit.point;
+						Building = (GameObject)Instantiate(Buildings, aa, transform.rotation);
+						Building.GetComponent<BuildingCtrl>().UiRoot("Roads");
+					}
 
+				}
 
 				//Debug.Log (targetPosition);
 				}

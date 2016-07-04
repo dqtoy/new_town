@@ -787,6 +787,7 @@
      <Compile Include="Assets\Script\CarMove.cs" />
      <Compile Include="Assets\Script\CarRotation.cs" />
      <Compile Include="Assets\Script\CollisonCarMove.cs" />
+     <Compile Include="Assets\Script\FinalStageConfig.cs" />
      <Compile Include="Assets\Script\MakeBuildings.cs" />
      <Compile Include="Assets\Script\PinchZoom.cs" />
      <Compile Include="Assets\Script\Player_Ctrl.cs" />
