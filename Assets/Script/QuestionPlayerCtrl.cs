@@ -64,7 +64,6 @@ public class QuestionPlayerCtrl : MonoBehaviour {
 	{
 		check1 = false;
 		check = true;
-		//transform.Rotate(0,180.0f,0);
 		transform.rotation = Quaternion.Euler (0, 270.0f, 0);
 	}
 
@@ -91,14 +90,15 @@ public class QuestionPlayerCtrl : MonoBehaviour {
 		}
 
 		if (check) {
-
+			PS = PlayerState1.Walk;
+			anim.SetFloat("Speed_f",0.5f);
 			transform.Translate (new Vector3(Mathf.Clamp(-(Time.deltaTime*2.0f), 0.0F, 0), 0, 0));
 
 		}
 	
 		if (check1) {
 			PS = PlayerState1.Walk;
-			anim.SetTrigger("walking");
+			anim.SetFloat("Speed_f",0.5f);
 			transform.Translate (new Vector3(Mathf.Clamp(Time.deltaTime*2.0f, 0.0F, 0), 0, 0));
 		}
 
