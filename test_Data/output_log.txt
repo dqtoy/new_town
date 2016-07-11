@@ -26,7 +26,7 @@ Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenP
 Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenPro.dll into Unity Child Domain
 Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll (this message is harmless)
 Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
+- Completed reload, in  0.070 seconds
 desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
@@ -37,39 +37,19 @@ LoadLevel: 02_CityName
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-UnloadTime: 1.017389 ms
+UnloadTime: 1.078384 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 988.
-Total: 1.267379 ms (FindLiveObjects: 0.038159 ms CreateObjectMapping: 0.014422 ms MarkObjects: 0.225051 ms  DeleteObjects: 0.035154 ms)
+Total: 1.123154 ms (FindLiveObjects: 0.051380 ms CreateObjectMapping: 0.011718 ms MarkObjects: 0.228657 ms  DeleteObjects: 0.032751 ms)
 
 LoadLevel: 03_00_story
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-UnloadTime: 1.855698 ms
+UnloadTime: 3.125183 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1272.
-Total: 1.120149 ms (FindLiveObjects: 0.026741 ms CreateObjectMapping: 0.016525 ms MarkObjects: 0.401727 ms  DeleteObjects: 0.016826 ms)
-
-LoadLevel: 03_05_01
- 
-(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
-
-UnloadTime: 2.578928 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1114.
-Total: 1.294421 ms (FindLiveObjects: 0.045671 ms CreateObjectMapping: 0.026441 ms MarkObjects: 0.460919 ms  DeleteObjects: 0.105164 ms)
-
-LoadLevel: question01
- 
-(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
-
-UnloadTime: 0.580506 ms
-Unloading 8 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 1365.
-Total: 1.458177 ms (FindLiveObjects: 0.036657 ms CreateObjectMapping: 0.012319 ms MarkObjects: 0.500581 ms  DeleteObjects: 0.076920 ms)
+Total: 1.758347 ms (FindLiveObjects: 0.060694 ms CreateObjectMapping: 0.018028 ms MarkObjects: 0.624375 ms  DeleteObjects: 0.027643 ms)
 
