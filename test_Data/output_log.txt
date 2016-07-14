@@ -1,0 +1,115 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\Yooney\Documents\New Town\test_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yooney\Documents\New Town\test_Data\Managed\System.dll (this message is harmless)
+LoadLevel: 02_CityName
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.820281 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 981.
+Total: 0.955492 ms (FindLiveObjects: 0.026441 ms CreateObjectMapping: 0.009014 ms MarkObjects: 0.170366 ms  DeleteObjects: 0.024338 ms)
+
+LoadLevel: 03_00_story
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.860806 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 1.409201 ms (FindLiveObjects: 0.028845 ms CreateObjectMapping: 0.011718 ms MarkObjects: 0.458516 ms  DeleteObjects: 0.018629 ms)
+
+LoadLevel: 03_02_01_aim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 2.467454 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1174.
+Total: 1.793802 ms (FindLiveObjects: 0.035154 ms CreateObjectMapping: 0.012018 ms MarkObjects: 0.566685 ms  DeleteObjects: 0.125896 ms)
+
+LoadLevel: 03_02_02_motivation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.488525 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1180.
+Total: 1.302835 ms (FindLiveObjects: 0.031549 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.487361 ms  DeleteObjects: 0.012619 ms)
+
+LoadLevel: 03_02_03_preGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.590722 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1173.
+Total: 1.347905 ms (FindLiveObjects: 0.030347 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.581408 ms  DeleteObjects: 0.050478 ms)
+
+LoadLevel: car_problem
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+UnloadTime: 0.671549 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 9436.
+Total: 2.375811 ms (FindLiveObjects: 0.430572 ms CreateObjectMapping: 0.048976 ms MarkObjects: 0.985239 ms  DeleteObjects: 0.084431 ms)
+
