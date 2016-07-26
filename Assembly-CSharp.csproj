@@ -226,6 +226,7 @@
      <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\EaseVector3.cs" />
      <Compile Include="Assets\PlayMaker\Actions\AnimationSettings.cs" />
      <Compile Include="Assets\PlayMaker\Actions\AnyKey.cs" />
+     <Compile Include="Assets\PlayMaker\Actions\ApplicationOpenUrl.cs" />
      <Compile Include="Assets\PlayMaker\Actions\ApplicationQuit.cs" />
      <Compile Include="Assets\PlayMaker\Actions\ApplicationRunInBackground.cs" />
      <Compile Include="Assets\PlayMaker\Actions\AudioMute.cs" />
