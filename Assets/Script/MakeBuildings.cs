@@ -17,6 +17,10 @@ public class MakeBuildings : MonoBehaviour {
 	public GameObject DetailMenu;
 	public UIButton BtnLotate;
 	public UIButton BtnDelete;
+	public UIButton BtnMoveUp;
+	public UIButton BtnMoveDown;
+	public UIButton BtnMoveLeft;
+	public UIButton BtnMoveRight;
 		
 	// Update is called once per frame
 	void Update () {
@@ -33,7 +37,11 @@ public class MakeBuildings : MonoBehaviour {
 						BuildingCtrl buildingCtrl = Building1.GetComponent<BuildingCtrl>();
 						buildingCtrl.DetailMenu = DetailMenu;
 						buildingCtrl.BtnLotate = BtnLotate;
-						buildingCtrl.BtnDelete = BtnDelete; 
+						buildingCtrl.BtnDelete = BtnDelete;
+						buildingCtrl.BtnMoveUp = BtnMoveUp;
+						buildingCtrl.BtnMoveDown = BtnMoveDown;
+						buildingCtrl.BtnMoveLeft = BtnMoveLeft; 
+						buildingCtrl.BtnMoveRight = BtnMoveRight;
 					}
 
 				}
