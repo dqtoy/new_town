@@ -781,6 +781,7 @@
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\StringCompareMulti.cs" />
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\UnloadAssetBundle.cs" />
      <Compile Include="Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\UnloadAssetBundleCompressedContents.cs" />
+     <Compile Include="Assets\ScreenShotAndroid\Scripts\TakeScreenShot.cs" />
      <Compile Include="Assets\Script\BuildingCtrl.cs" />
      <Compile Include="Assets\Script\CameraController.cs" />
      <Compile Include="Assets\Script\CarCtrl.cs" />

@@ -26,12 +26,12 @@ namespace HutongGames.PlayMaker.Actions
 		public override void OnEnter()
 		{
 			if (string.IsNullOrEmpty(filename.Value)) return;
-
-			string screenshotPath = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures)+"/";
+			
+			string screenshotPath = "";
 			string screenshotFullPath = screenshotPath + filename.Value + ".png";
-
-			//Debug.Log(screenshotFullPath);
-
+			
+			Debug.Log(screenshotFullPath);
+			
 			if (autoNumber)
 			{
 				while (System.IO.File.Exists(screenshotFullPath)) 
@@ -40,7 +40,7 @@ namespace HutongGames.PlayMaker.Actions
 					screenshotFullPath = screenshotPath + filename.Value + screenshotCount + ".png";
 				} 
 			}
-
+			
 			Application.CaptureScreenshot(screenshotFullPath);
 			
 			Finish();
