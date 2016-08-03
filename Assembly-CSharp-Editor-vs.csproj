@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{D6139C7F-AFD7-EB6F-FFE0-113A84DEA684}</ProjectGuid>
+	<ProjectGuid>{9948936A-F531-582A-D41E-C3022D1074AA}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -235,88 +235,81 @@
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
- <Reference Include="LitJson">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/LitJson.dll</HintPath>
- </Reference>
  <Reference Include="DemiLib">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
  </Reference>
  <Reference Include="DemiEditor">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenPro">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenProEditor">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
  </Reference>
  <Reference Include="PlayMaker">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/PlayMaker.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditorResources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.de.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/de/PlayMakerEditor.de.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/de/PlayMakerEditor.de.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.es-ES.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/es-ES/PlayMakerEditor.es-ES.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/es-ES/PlayMakerEditor.es-ES.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.fr.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/fr/PlayMakerEditor.fr.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/fr/PlayMakerEditor.fr.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.it.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/it/PlayMakerEditor.it.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/it/PlayMakerEditor.it.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.ja.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/ja/PlayMakerEditor.ja.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/ja/PlayMakerEditor.ja.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.nl.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/nl/PlayMakerEditor.nl.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/nl/PlayMakerEditor.nl.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.pt-BR.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/pt-BR/PlayMakerEditor.pt-BR.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/pt-BR/PlayMakerEditor.pt-BR.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.sv-SE.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/sv-SE/PlayMakerEditor.sv-SE.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/sv-SE/PlayMakerEditor.sv-SE.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.zh-CN.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/zh-CN/PlayMakerEditor.zh-CN.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/zh-CN/PlayMakerEditor.zh-CN.resources.dll</HintPath>
  </Reference>
  <Reference Include="PlayMakerEditor.zh-TW.resources">
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/PlayMaker/Editor/zh-TW/PlayMakerEditor.zh-TW.resources.dll</HintPath>
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/PlayMaker/Editor/zh-TW/PlayMakerEditor.zh-TW.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="WP8Screenshot">
+ <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Plugins/WP8Screenshot.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
- <Reference Include="WP8Screenshot">
-<<<<<<< HEAD
- <HintPath>C:/Users/Yooney/Documents/New Town/Assets/Plugins/WP8Screenshot.dll</HintPath>
-=======
- <HintPath>C:/Users/Tae-Hwa/Documents/GitHub/new_town/Assets/Plugins/WP8Screenshot.dll</HintPath>
->>>>>>> fc0d37a33ade7b6dee16fe7f6a5c326e1165977a
- </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{4F4E09B8-833A-483F-AEC6-01D408C56CFA}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{37F73148-39BC-CBE9-4BEF-1166617A4EFF}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{C9495ADF-5BB4-B43D-3ED5-6089EF766FF7}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{093B0BD9-7CE7-163C-56CF-46715F11694D}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
